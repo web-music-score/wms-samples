@@ -1,6 +1,6 @@
 {
     "name": "web-music-score-samples",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "author": "Stefan B.",
     "license": "MIT",
     "private": false,
@@ -21,7 +21,7 @@
         "samples/**/*.*"
     ],
     "scripts": {
-        "serve": "serve ."
+        "serve": "serve . --cors -p 3000"
     },
     "devDependencies": {
         "serve": "^14.2.6"
