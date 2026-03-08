@@ -19,5 +19,11 @@
         "LICENSE",
         "README.md",
         "samples/**/*.*"
-    ]
+    ],
+    "scripts": {
+        "serve": "serve ."
+    },
+    "devDependencies": {
+        "serve": "^14.2.6"
+    }
 }
