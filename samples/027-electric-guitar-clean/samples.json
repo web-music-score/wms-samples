@@ -1,0 +1,15 @@
+{
+    "name": "Electric Guitar (clean)",
+    "gain": 4,
+    "samples": {
+        "E2": "E2.mp3",
+        "A2": "A2.mp3",
+        "D3": "D3.mp3",
+        "G3": "G3.mp3",
+        "B3": "B3.mp3",
+        "E4": "E4.mp3",
+        "A4": "A4.mp3",
+        "D5": "D5.mp3",
+        "G5": "G5.mp3"
+    }
+}
