@@ -1,0 +1,18 @@
+{
+    "name": "Trombone",
+    "gain": 4,
+    "loop": true,
+    "loopStart": 0.35,
+    "samples": {
+        "E2": "E2.mp3",
+        "G2": "G2.mp3",
+        "A2": "A2.mp3",
+        "B2": "B2.mp3",
+        "C3": "C3.mp3",
+        "D3": "D3.mp3",
+        "E3": "E3.mp3",
+        "G3": "G3.mp3",
+        "C4": "C4.mp3",
+        "E4": "E4.mp3"
+    }
+}
