@@ -1,0 +1,27 @@
+{
+    "name": "Oboe",
+    "gain": 4,
+    "loop": true,
+    "loopStart": 0.35,
+    "samples": {
+        "C1": "C1.mp3",
+        "E1": "E1.mp3",
+        "Ab1": "Ab1.mp3",
+        "C2": "C2.mp3",
+        "E2": "E2.mp3",
+        "Ab2": "Ab2.mp3",
+        "C3": "C3.mp3",
+        "E3": "E3.mp3",
+        "Ab3": "Ab3.mp3",
+        "C4": "C4.mp3",
+        "E4": "E4.mp3",
+        "Ab4": "Ab4.mp3",
+        "C5": "C5.mp3",
+        "E5": "E5.mp3",
+        "Ab5": "Ab5.mp3",
+        "C6": "C6.mp3",
+        "E6": "E6.mp3",
+        "Ab6": "Ab6.mp3",
+        "C7": "C7.mp3"
+    }
+}
