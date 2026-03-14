@@ -2,7 +2,7 @@
     "name": "String Ensemble 2",
     "gain": 4,
     "loop": true,
-    "loopStart": 0.35,
+    "loopStart": 1.25,
     "samples": {
         "C1": "C1.mp3",
         "E1": "E1.mp3",

@@ -1,8 +1,6 @@
 {
     "name": "Pizzicato Strings",
     "gain": 4,
-    "loop": true,
-    "loopStart": 0.35,
     "samples": {
         "C1": "C1.mp3",
         "E1": "E1.mp3",

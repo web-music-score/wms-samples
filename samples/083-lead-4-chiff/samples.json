@@ -2,7 +2,7 @@
     "name": "Lead 4 (chiff)",
     "gain": 4,
     "loop": true,
-    "loopStart": 0.35,
+    "loopStart": 0.5,
     "samples": {
         "C1": "C1.mp3",
         "E1": "E1.mp3",

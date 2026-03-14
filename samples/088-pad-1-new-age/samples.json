@@ -2,7 +2,7 @@
     "name": "Pad 1 (new age)",
     "gain": 4,
     "loop": true,
-    "loopStart": 0.35,
+    "loopStart": 1.2,
     "samples": {
         "C1": "C1.mp3",
         "E1": "E1.mp3",

@@ -2,7 +2,7 @@
     "name": "Overdriven Guitar",
     "gain": 4,
     "loop": true,
-    "loopStart": 0.35,
+    "loopStart": 1.75,
     "samples": {
         "C1": "C1.mp3",
         "E1": "E1.mp3",
