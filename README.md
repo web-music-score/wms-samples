@@ -3,7 +3,7 @@
 This package contains instrument samples for WebMusicScore library.
 
 Instrument samples are from: 
-[MIDI-JS Soundfonts collection](https://codeload.github.com/gleitz/midi-js-soundfonts/zip/gh-pages)
+[MIDI-JS Soundfonts collection](https://github.com/gleitz/midi-js-soundfonts)
 (MusyngKite folder)
 
 ## Documentation
